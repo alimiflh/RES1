@@ -1,0 +1,31 @@
+@media screen and (max-width: 500px) {
+	body {
+		font-size: 5px;
+	}
+	.title {
+
+		font-size: 6em;
+		color: red;
+	}
+
+	.p p {
+		font-size: 4em;
+		color: red;
+	}
+}
+@media screen and (max-width: 300px) {
+	body {
+		font-size: 5px;
+	}
+
+	.title {
+		text-align: center;
+		font-size: 5em;
+		color: green;
+	}
+
+	.p p {
+		font-size: 2em;
+		color: green;
+	}
+}

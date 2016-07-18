@@ -1,0 +1,19 @@
+
+	*{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+	body{
+	font-size: 5px;}
+	
+.p p{
+	margin:0;
+	font-size: 6em;
+
+	}
+.title{
+    text-align: center;
+    font-size: 8em;
+}
+}
